@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header_div{
+    margin-top: 50px;
+    background-color: beige;
+    height: 110px;
+}
+
+.header_div img{
+    width: 50px;
+}
+
+.main_div{
+    background-color: burlywood;
+    padding: 25px;
+    margin-top: 10px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background-color: aqua;
+    width: 250px;
+    box-shadow: 5px 5px 18px aquamarine;
+    padding: 8px;
+    margin-bottom: 0px;
+}
+
+#camera, #my_img{
+    width: 250px;
+    height: 230px;
+    border: 2px white;
+    border-style: double;
+    box-shadow: 2px 2px 16px aqua;
+}
+
+.main_div button{
+    box-shadow: 2px 2px 16px aquamarine;
+    width: 250px;
+    font-size: 20;
+}
